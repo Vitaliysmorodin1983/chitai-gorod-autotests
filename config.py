@@ -1,0 +1,1 @@
+BASE_URL = "https://www.chitai-gorod.ru/"  # Базовый URL сайта
